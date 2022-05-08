@@ -19,7 +19,6 @@ Java Desktop Selling Management Project
 <p>
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" target="_blank">
 <img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" width="500" style="max-width:100%;"></a>
- 
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" target="_blank">
 <img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" width="500" style="max-width:100%;"></a>
 </p>
