@@ -25,6 +25,7 @@
 
 - On the report page, the sales data of the desired date according to the desired parameter can be accessed. The model of the table is connected to the relevant searc textbox. Therefore, when the parameter and date are changed, it is necessary to make a keyboard movement in the textbox.By pressing the pdf button, the table on the screen is converted to a pdf file. There is general profit and loss information in the lower left corner. This information is updated with each new sale.
 
+- On the user settings page, User can change existing password.
 <b>
 </b>
 
