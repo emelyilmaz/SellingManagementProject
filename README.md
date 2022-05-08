@@ -18,26 +18,26 @@ Java Desktop Selling Management Project
 
 <p>
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" width="400" style="max-width:100%;"></a>
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" width="400" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p>
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/3.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/3.1.png" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/3.1.png" width="400" style="max-width:100%;"></a>
  
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/4.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/4.1.png" width="300" style="max-width:100%;"></a>
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/4.1.png" width="400" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p> 
  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/5.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/5.1.png" width="300" style="max-width:100%;"></a>  
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/5.1.png" width="400" style="max-width:100%;"></a>  
   <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/6.1.png" target="_blank">
-<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/6.1.png" width="300" style="max-width:100%;"></a>  
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/6.1.png" width="400" style="max-width:100%;"></a>  
  
 <p/> 
 <br>
