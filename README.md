@@ -17,44 +17,61 @@ Java Desktop Selling Management Project
 <br>
 
 <p>
- <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.PNG" width="500" style="max-width:100%;"></a>
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/1.1.png" width="500" style="max-width:100%;"></a>
+ 
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/2.1.png" width="500" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p>
- <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/1.2.PNG" width="500" style="max-width:100%;"></a>
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/3.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/3.1.png" width="500" style="max-width:100%;"></a>
+ 
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/4.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/4.1.png" width="500" style="max-width:100%;"></a>
 </p>
 <br>
 
 <p> 
- <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/2.PNG" width="500" style="max-width:100%;"></a>  
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/5.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/5.1.png" width="500" style="max-width:100%;"></a>  
+  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/6.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/6.1.png" width="500" style="max-width:100%;"></a>  
+ 
 <p/> 
 <br>
 
 <p>   
- <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/3.PNG" width="500" style="max-width:100%;"></a> 
+  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/7.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/7.1.png" width="500" style="max-width:100%;"></a>
+   <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/8.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/8.1.png" width="500" style="max-width:100%;"></a>
 <p/> 
 <br>
 
 <p> 
-<a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/4.PNG" width="500" style="max-width:100%;"></a> 
+  <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/9.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/9.1.png" width="500" style="max-width:100%;"></a>
+   <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/10.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/10.1.png" width="500" style="max-width:100%;"></a>
 <p/>
 <br>
 
 <p> 
- <a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/5.PNG" width="500" style="max-width:100%;"></a> 
+ <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/11.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/11.1.png" width="500" style="max-width:100%;"></a>
+   <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/12.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/12.1.png" width="500" style="max-width:100%;"></a>
 </p> 
 <br>
 
 <p> 
-<a href="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" target="_blank">
-<img src="https://github.com/emelyilmaz/java-desktop-technical-service/blob/main/images/6.PNG" width="500" style="max-width:100%;"></a> 
+<a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/13.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/13.1.png" width="500" style="max-width:100%;"></a>
+   <a href="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/14.1.png" target="_blank">
+<img src="https://github.com/emelyilmaz/SellingManagementProject/blob/main/projectimages/14.1.png" width="500" style="max-width:100%;"></a>
 <p/> 
  
 
