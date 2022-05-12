@@ -126,7 +126,7 @@ public class BasketImpl implements IBasket {
 
         if (data != null && !data.equals("")) {
             data=data.toLowerCase();
-            // arama sonuçlarını gönder
+       
             List<Customer> subLs = new ArrayList<>();
             for (Customer item : lsCustomer) {
                 if (item.getName().toLowerCase(Locale.ROOT).contains(data)
